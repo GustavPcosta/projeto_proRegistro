@@ -1,0 +1,35 @@
+.participante-info strong{
+    font-size: 18px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.participante-info a {
+    font-size: 14px;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis;
+    max-width: 100%; 
+    display: inline-block;
+}
+
+
+
+.info-text span{
+
+   margin-left: 25px;
+}
+
+.link-a{
+    display: flex;
+}
+
+.content-participante{
+    margin: 0 82px;
+}
+
+
+
+
+
+

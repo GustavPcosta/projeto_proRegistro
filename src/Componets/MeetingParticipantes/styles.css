@@ -1,0 +1,15 @@
+.participante-content{
+   margin: 0 82px;
+}
+
+.participante-content strong{
+    position: relative;
+    font-weight: bold;
+    font-size: 1.2rem;
+  
+}
+
+
+.participante-content img{
+    margin-top: 20px;
+}
