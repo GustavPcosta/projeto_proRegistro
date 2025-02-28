@@ -24,5 +24,6 @@ JavaScript: Linguagem de programação usada para a lógica do frontend
 
 Observação:
 Esse projeto são duas telas estática, ou seja, não há implementação de API
+O zoom da aplicação ficou adaptado em 80%
 
 
